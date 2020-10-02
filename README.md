@@ -1,2 +1,3 @@
-# Minesweeper
-2015 연말 학술제에 출품 했던 지뢰찾기게임 (JAVA)
+# Minesweeper 
+### 평택대학교 2015 학술제 출품작
+>지뢰찾기게임 (JAVA)
